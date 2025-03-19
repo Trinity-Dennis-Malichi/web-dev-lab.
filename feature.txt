@@ -1,0 +1,15 @@
+The following is what i have learned from lab1
+Installing Essential Web Development Tools
+
+Learned how to install and configure Visual Studio Code (VS Code) as my code editor.
+Installed Git for version control and verified its installation using git --version.
+Installed Node.js and npm (Node Package Manager) to manage JavaScript runtime and dependencies.
+Creating and Running a Basic HTML Page
+
+Created a project folder named web-dev-lab.
+Developed a simple HTML webpage (index.html) using VS Code.
+Opened the index.html file in a web browser using start index.html.
+Learned how to use Live Server in VS Code for real-time preview.
+Learned how to document work using a README.md file.
+Practiced recording a short video or taking annotated screenshots to explain my work.
+Submitted my GitHub repository link as part of the deliverables.
